@@ -51,3 +51,7 @@ rsconnect/
 # large files
 *.tif
 *.osm
+*.jar
+*.pbf
+router-config.json
+*.zip
